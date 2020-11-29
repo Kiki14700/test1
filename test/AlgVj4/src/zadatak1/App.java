@@ -5,6 +5,7 @@ public class App {
 	public static void main(String[] args) {
 		
 		Message.msg(0);
+		System.out.println("Ovo je proba");
 	}
 
 }
